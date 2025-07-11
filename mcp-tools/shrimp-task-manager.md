@@ -85,8 +85,9 @@ WEB_PORT=3000
 
 ## 🔗 相关链接
 - [项目文档](https://github.com/cjo4m06/mcp-shrimp-task-manager/blob/main/README.md)
+- [Shrimp Task Manager使用记忆总结](https://fcn8mctq4tqd.feishu.cn/wiki/JHmewjh5riq1V6k2exMcf84SnsH)
 - [VSCode Augment配置](./vscode-augment.md)
-- [任务管理最佳实践](../knowledge/best-practices.md)
+- [完整飞书链接索引](../feishu-links/README.md)
 
 ## 📝 常见问题
 

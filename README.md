@@ -5,10 +5,15 @@
 
 ## 🗂️ 目录结构
 
+### 🔗 飞书文档链接索引
+- [完整飞书链接索引](./feishu-links/README.md) - 所有飞书文档的集中索引
+
 ### 1. 数据分析项目
-- [数据分析项目主页](./data-analysis/README.md)
-- [数据处理工具](./data-analysis/tools.md)
-- [分析报告模板](./data-analysis/templates.md)
+- 🧠 [罗小涵专属记忆数据库 v2.0](https://fcn8mctq4tqd.feishu.cn/docx/UA7dd3fNUo0UIlx4WTHcKrgDnuf)
+- 📊 [抖音商品库数据分析报告](https://fcn8mctq4tqd.feishu.cn/docx/BAARdbRfFodJMzxPbe0cMgA8nrb)
+- 🎉 [数据清洗问题解决报告](https://fcn8mctq4tqd.feishu.cn/docx/FHGMd0JmYoaxd0xXd1wcZmkjnCc)
+- ✨ [智能商品价值评估器完整指南](https://fcn8mctq4tqd.feishu.cn/docx/RUMEd79nQoBGuFxwRK7cIrYhnmc)
+- 🎨 [文创礼品专用智能商品价值评估器](https://fcn8mctq4tqd.feishu.cn/docx/DY2NdWQrkoV7HcxiEMLciWtmnaf)
 
 ### 2. MCP工具配置指南
 - [Shrimp Task Manager配置](./mcp-tools/shrimp-task-manager.md)
@@ -22,9 +27,10 @@
 - [测试策略](./dev-tools/testing.md)
 
 ### 4. 知识片段库
-- [技术解决方案](./knowledge/technical-solutions.md)
-- [最佳实践](./knowledge/best-practices.md)
-- [常见问题解答](./knowledge/faq.md)
+- 🔧 [MCP工具使用指南（合并版）](https://fcn8mctq4tqd.feishu.cn/docx/W2xid0FolojOyUx02r4c9zian7g)
+- 💻 [技术实现方法库](https://fcn8mctq4tqd.feishu.cn/wiki/Id1NwIlltihhotkklNdcntH8nmg)
+- 📋 [项目管理经验库](https://fcn8mctq4tqd.feishu.cn/wiki/GaS1wGYasi91cUkD3bgcNKvJngc)
+- 🧠 [Shrimp Task Manager使用记忆总结](https://fcn8mctq4tqd.feishu.cn/wiki/JHmewjh5riq1V6k2exMcf84SnsH)
 
 ### 5. Token优化策略
 - [飞书MCP Token优化](./optimization/feishu-mcp-token.md)

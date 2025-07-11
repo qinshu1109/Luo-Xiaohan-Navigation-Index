@@ -74,8 +74,9 @@ npm install feishu-mcp@latest
 
 ## 🔗 相关链接
 - [飞书开发者文档](https://open.feishu.cn/document/)
+- [MCP工具使用指南（合并版）](https://fcn8mctq4tqd.feishu.cn/docx/W2xid0FolojOyUx02r4c9zian7g)
+- [完整飞书链接索引](../feishu-links/README.md)
 - [Token优化策略](../optimization/feishu-mcp-token.md)
-- [Playwright集成指南](../dev-tools/playwright-integration.md)
 
 ## 📝 常见问题
 
