@@ -11,6 +11,7 @@
 - 🎉 [数据清洗问题解决报告](https://fcn8mctq4tqd.feishu.cn/docx/FHGMd0JmYoaxd0xXd1wcZmkjnCc)
 - ✨ [智能商品价值评估器完整指南](https://fcn8mctq4tqd.feishu.cn/docx/RUMEd79nQoBGuFxwRK7cIrYhnmc)
 - 🎨 [文创礼品专用智能商品价值评估器](https://fcn8mctq4tqd.feishu.cn/docx/DY2NdWQrkoV7HcxiEMLciWtmnaf)
+- 🚀 [极简数据清洗Web应用 - 个人本地版](https://fcn8mctq4tqd.feishu.cn/wiki/KXDmw0xtfirD5dkmEjec4bornEE)
 
 ### 🔧 MCP工具配置
 - [Shrimp Task Manager配置](./mcp-tools/shrimp-task-manager.md)

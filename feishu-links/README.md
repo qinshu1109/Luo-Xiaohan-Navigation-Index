@@ -24,6 +24,11 @@
   - 链接: https://fcn8mctq4tqd.feishu.cn/docx/DY2NdWQrkoV7HcxiEMLciWtmnaf
   - 描述: 技术成果报告和实施细节
 
+### Web应用项目
+- 🚀 **极简数据清洗Web应用 - 个人本地版**
+  - 链接: https://fcn8mctq4tqd.feishu.cn/wiki/KXDmw0xtfirD5dkmEjec4bornEE
+  - 描述: 个人本地版数据清洗Web应用的项目规划和实施方案
+
 ## 🔧 MCP工具文档
 
 ### 工具使用指南
