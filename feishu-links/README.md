@@ -35,6 +35,10 @@
   - 链接: https://fcn8mctq4tqd.feishu.cn/wiki/JHmewjh5riq1V6k2exMcf84SnsH
   - 描述: VSCode Augment配置和使用经验总结
 
+- ⚡ **飞书MCP工具Token优化纯文本编写策略**
+  - 链接: https://fcn8mctq4tqd.feishu.cn/wiki/HweewgAS3i4WzZkozzMcIZlbnig
+  - 描述: Token优化前提下的纯文本文档编写最佳实践
+
 ## 📚 知识库文档
 
 ### 技术知识库

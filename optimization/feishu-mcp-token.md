@@ -107,6 +107,7 @@ npm install feishu-mcp@latest
 ## 🔗 相关资源
 - [飞书MCP配置](../mcp-tools/feishu-mcp.md)
 - [Git导航仓库](https://github.com/qinshu1109/Luo-Xiaohan-Navigation-Index)
+- [飞书MCP工具Token优化纯文本编写策略](https://fcn8mctq4tqd.feishu.cn/wiki/HweewgAS3i4WzZkozzMcIZlbnig)
 - [Playwright集成指南](../dev-tools/playwright-integration.md)
 - [AI工具优化策略](./ai-tools.md)
 

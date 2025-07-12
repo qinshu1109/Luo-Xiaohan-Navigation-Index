@@ -26,6 +26,7 @@
 
 ### ⚡ Token优化策略
 - [飞书MCP Token优化](./optimization/feishu-mcp-token.md)
+- 📝 [飞书MCP工具Token优化纯文本编写策略](https://fcn8mctq4tqd.feishu.cn/wiki/HweewgAS3i4WzZkozzMcIZlbnig)
 
 ## � 详细索引
 - [完整飞书链接索引](./feishu-links/README.md) - 所有飞书文档的分类索引

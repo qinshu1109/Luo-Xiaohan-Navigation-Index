@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<memory>
+  <item id="mem_1752277544536_2ufjyq4ww" time="2025/07/12 07:45">
+    <content>
+      Git导航索引Token优化核心经验：
+      1. 飞书MCP单次调用get_feishu_document_blocks消耗60K Tokens，是巨大的Token浪费
+      2. Git仓库方案实现96.5%的Token节约：本地访问仅需2,100 Tokens vs 飞书MCP的60,000 Tokens
+      3. 三种访问方式对比：本地Git(2.1K) &lt; GitHub web-fetch选择性(6-8K) &lt; GitHub web-fetch全量(40.5K) &lt; 飞书MCP(60K)
+      4. 最佳实践：使用本地Git访问导航索引，定期git pull同步，完全离线可用且速度最快
+      5. 仓库地址：https://github.com/qinshu1109/Luo-Xiaohan-Navigation-Index (私人仓库，通过PAT访问)
+      6. 核心内容：数据分析项目(5个)、MCP工具配置(4个)、知识库文档(4个)、Token优化策略
+    </content>
+    <tags>#最佳实践 #工具使用</tags>
+  </item>
+</memory>
