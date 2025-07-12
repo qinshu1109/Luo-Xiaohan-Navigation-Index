@@ -39,9 +39,9 @@ npm install feishu-mcp@latest
 
 ### 文档管理
 - `create_feishu_document`: 创建新文档
-- `get_feishu_document_info`: 获取文档信息
-- `get_feishu_document_blocks`: 获取文档结构（高Token消耗）
-- `search_feishu_documents`: 搜索文档
+- `get_feishu_document_info`: 获取文档信息（推荐，低Token消耗）
+- ❌ `get_feishu_document_blocks`: **已禁用**（极高Token消耗30K-60K，无实际价值）
+- `search_feishu_documents`: 搜索文档（推荐替代方案）
 
 ### 内容编辑
 - `batch_create_feishu_blocks`: 批量创建内容块（推荐）
@@ -56,10 +56,11 @@ npm install feishu-mcp@latest
 ## 🎯 使用最佳实践
 
 ### Token优化策略
-1. **避免全量加载**: 不使用`get_feishu_document_blocks`除非必要
-2. **Playwright定位**: 使用Playwright找到位置后用API精确操作
-3. **批量操作**: 优先使用`batch_create_feishu_blocks`
-4. **摘要优先**: AI端实施摘要优先规则
+1. **完全禁用**: ❌ 永远不使用`get_feishu_document_blocks`（Token杀手）
+2. **替代方案**: ✅ 使用`get_feishu_document_info` + `search_feishu_documents`
+3. **Playwright定位**: 使用Playwright找到位置后用API精确操作
+4. **批量操作**: 优先使用`batch_create_feishu_blocks`
+5. **Git仓库优先**: 导航索引类信息优先使用Git仓库方案
 
 ### 文档操作流程
 1. 使用Playwright定位目标位置
@@ -81,7 +82,10 @@ npm install feishu-mcp@latest
 ## 📝 常见问题
 
 ### Q: 如何避免60K Token消耗？
-A: 使用A+B方案或Git仓库方案，避免调用`get_feishu_document_blocks`。
+A: **完全禁用**`get_feishu_document_blocks`工具，使用`get_info` + `search`替代方案。
+
+### Q: `get_feishu_document_blocks`真的没有用吗？
+A: 是的，该工具Token消耗巨大(30K-60K)而实际价值极低，90%的数据都是无用元数据。
 
 ### Q: 如何精确定位文档位置？
 A: 结合Playwright UI定位和飞书MCP API精确操作。
