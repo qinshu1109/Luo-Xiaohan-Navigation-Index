@@ -18,6 +18,7 @@
 - [飞书MCP配置](./mcp-tools/feishu-mcp.md)
 - [Zen MCP配置](./mcp-tools/zen-mcp.md)
 - [VSCode Augment配置](./mcp-tools/vscode-augment.md)
+- 🎯 [飞书MCP工具加载问题完整解决方案](https://fcn8mctq4tqd.feishu.cn/docx/PvLpdeHjToQ9CTxHZmRccZFYnFb)
 
 ### 📚 知识库文档
 - 🔧 [MCP工具使用指南（合并版）](https://fcn8mctq4tqd.feishu.cn/docx/W2xid0FolojOyUx02r4c9zian7g)

@@ -21,9 +21,9 @@
         "@larksuiteoapi/lark-mcp",
         "mcp",
         "-a",
-        "your_app_id",
+        "cli_a8e4b7ee5234d00c",
         "-s",
-        "your_app_secret",
+        "aZredjZqWygP1kbFrwCfLK45FPxHa8wO",
         "--oauth"
       ]
     }
@@ -42,10 +42,10 @@
 #### OAuth登录（推荐）
 ```bash
 # 首次登录获取用户访问令牌
-npx -y @larksuiteoapi/lark-mcp login -a cli_xxxx -s yyyyy
+npx -y @larksuiteoapi/lark-mcp login -a cli_a8e4b7ee5234d00c -s aZredjZqWygP1kbFrwCfLK45FPxHa8wO
 
 # 指定权限范围登录
-npx -y @larksuiteoapi/lark-mcp login -a cli_xxxx -s yyyyy --scope offline_access docx:document
+npx -y @larksuiteoapi/lark-mcp login -a cli_a8e4b7ee5234d00c -s aZredjZqWygP1kbFrwCfLK45FPxHa8wO --scope offline_access docx:document
 ```
 
 #### 配置文件（启用OAuth）
@@ -58,8 +58,8 @@ npx -y @larksuiteoapi/lark-mcp login -a cli_xxxx -s yyyyy --scope offline_access
         "-y",
         "@larksuiteoapi/lark-mcp",
         "mcp",
-        "-a", "your_app_id",
-        "-s", "your_app_secret",
+        "-a", "cli_a8e4b7ee5234d00c",
+        "-s", "aZredjZqWygP1kbFrwCfLK45FPxHa8wO",
         "--oauth",
         "-l", "zh",
         "-t", "preset.light"
@@ -145,10 +145,10 @@ npx -y @larksuiteoapi/lark-mcp login -a cli_xxxx -s yyyyy --scope offline_access
 ### 步骤3: 安装和登录
 ```bash
 # 首次登录
-npx -y @larksuiteoapi/lark-mcp login -a your_app_id -s your_app_secret
+npx -y @larksuiteoapi/lark-mcp login -a cli_a8e4b7ee5234d00c -s aZredjZqWygP1kbFrwCfLK45FPxHa8wO
 
 # 验证登录状态
-npx -y @larksuiteoapi/lark-mcp mcp -a your_app_id -s your_app_secret --oauth -t preset.light
+npx -y @larksuiteoapi/lark-mcp mcp -a cli_a8e4b7ee5234d00c -s aZredjZqWygP1kbFrwCfLK45FPxHa8wO --oauth -t preset.light
 ```
 
 ### 步骤4: VSCode Augment配置
@@ -164,8 +164,8 @@ npx -y @larksuiteoapi/lark-mcp mcp -a your_app_id -s your_app_secret --oauth -t 
     "-y",
     "@larksuiteoapi/lark-mcp",
     "mcp",
-    "-a", "your_app_id",
-    "-s", "your_app_secret",
+    "-a", "cli_a8e4b7ee5234d00c",
+    "-s", "aZredjZqWygP1kbFrwCfLK45FPxHa8wO",
     "--oauth",
     "-l", "zh",
     "-t", "preset.light"
